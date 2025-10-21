@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/r7rJQwZ.jpeg" alt="Banner Dark Tech" width="100%" />
-</p>
-
 <h1 align="center">💻 Maurício Gonzalez</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End em transição para Engenharia de Software</strong><br/>
