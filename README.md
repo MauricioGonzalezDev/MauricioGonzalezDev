@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/djB7Tlu.png" alt="Banner - Mauricio Gonzalez Dev" width="100%" />
+  <img src="https://i.imgur.com/r7rJQwZ.jpeg" alt="Banner Dark Tech" width="100%" />
 </p>
 
 <h1 align="center">💻 Maurício Gonzalez</h1>
