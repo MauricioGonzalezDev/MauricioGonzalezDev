@@ -52,15 +52,6 @@ Entrega final com **APK assinado** e documentação técnica.
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioGonzalezDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioGonzalezDev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌎 Onde me encontrar
 
 <p align="center">
