@@ -1,6 +1,6 @@
 <h1 align="center">💻 Maurício Gonzalez</h1>
 <p align="center">
-  <strong>Desenvolvedor Back-End em transição para Engenharia de Software</strong><br/>
+  <strong>Desenvolvedor Back-End em transição de carreira cursando Engenharia de Software</strong><br/>
   Apaixonado por lógica, automação e resolver problemas com código.
 </p>
 
